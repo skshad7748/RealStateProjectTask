@@ -5,7 +5,7 @@ const Hero = () => {
     <Box
       sx={{
         backgroundColor: '#f5f9ff',
-        minHeight: '50vh',
+        minHeight: '60vh',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
